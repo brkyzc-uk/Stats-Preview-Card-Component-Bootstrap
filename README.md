@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./background.png)
+![](./screenshot.png)
 
 
 ### Links
